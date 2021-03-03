@@ -11,6 +11,6 @@
     <title>尚硅谷官网</title>
   </head>
   <body>
-  <h1 style="color: blue">hello idea</h1>
+  <h1 style="color: blue">hello Idea</h1>
   </body>
 </html>
